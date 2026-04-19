@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">haweel</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">1435389738135921</string>
+
+    <string name="facebook_client_token">0af9acf06e9953b818c8230d2656def7</string>
+
+    <string name="fb_login_protocol_scheme">
+        fbYOUR_FACEBOOK_APP_ID
+    </string>
+
+</resources>
